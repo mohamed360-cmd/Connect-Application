@@ -26,7 +26,7 @@
     "react-native-video": "^5.2.1",
     "react-native-webview": "^13.2.2",
     "socket.io-client": "^4.7.1",
-    "validator": "^13.9.0",
+    "validator": "^13.15.22",
     "zego-express-engine-reactnative": "^3.2.0"
   },
   "devDependencies": {
